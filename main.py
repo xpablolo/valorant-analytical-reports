@@ -12,7 +12,7 @@ import sys
 from functions import get_basic_info, get_match_by_match_id, get_comps, get_image_link, get_plants, create_early_positioning, get_pistol_plants, get_sniper_kills, get_teams, get_puuid_by_riotid, get_matchlist_by_puuid, get_map_by_id, _summarize_match
 
 # data 
-player_list = {"TH": "TH Boo", "TL": "TL nAts", "GX": "GX Cloud", "FNC": "FNC Boaster", "DRG": "DRG Nicc", "T1": "T1 Meteor", "G2": "G2 valyn"}
+player_list = {"TH": "TH Boo", "TL": "TL nAts", "GX": "GX Cloud", "FNC": "FNC Boaster", "DRG": "DRG Nicc", "T1": "T1 Meteor", "G2": "G2 valyn", "NRG": "NRG s0m", "SEN": "SEN bang", "MIBR": "MIBR xenom", "BLG": "BLG whzy", "EDG": "EDG Smoggy", "XLG": "XLG Rarga", "PRX": "PRX f0rsakeN", "RRQ": "RRQ Jemkin", "DRX": "DRX MaKo"}
 
 # Authenticate
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
