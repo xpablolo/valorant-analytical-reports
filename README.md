@@ -22,5 +22,4 @@ Python application that automatically builds a multi-sheet Google Spreadsheet re
 ├─ main.py                             # Entry-point script that builds the spreadsheet
 ├─ functions.py                        # Data layer helpers 
 ├─ plots/                              # Auto-generated images before upload to Drive
-├─ requirements.txt                    # Optional: dependencies pinning
 └─ .gitignore                          # Should ignore credentials & caches
